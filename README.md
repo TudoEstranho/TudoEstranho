@@ -1,15 +1,30 @@
 # <span style="font-size:36px;">Estranho</span>
 
 ## Sobre Mim
-Olá, sou o Estranho, um desenvolvedor de programas com experiência de 2 anos em Python e JavaScript. Meu foco principal é o desenvolvimento de bots para Telegram e Discord. Tenho paixão por criar soluções automatizadoras e eficientes usando programação.
+Olá, sou o Estranho, um desenvolvedor de programas com experiência de 2 anos em Python e JavaScript. Crio soluções automatizadoras e eficientes usando programação.
 
 ## Experiência
 
-- <span style="font-size:24px;">•</span> **Desenvolvedor de Bots** - 2 anos de experiência
-  - Desenvolvimento de bots para Telegram e Discord
-  - Utilização de Python e JavaScript
-  - Integração de APIs e serviços externos
-  - Automação de tarefas e interações em plataformas de chat
+- <span style="font-size:24px;">•</span> **Desenvolvedor Full-Stack** - 2 anos de experiência
+  
+  - Criação da interface do usuário (UI) utilizando HTML, CSS e JavaScript.
+  - Desenvolvimento de layouts responsivos para garantir que o aplicativo ou site seja exibido corretamente em diferentes dispositivos.
+  - Implementação de recursos interativos usando bibliotecas e frameworks, como React, Angular ou Vue.js.
+  - Otimização do desempenho do frontend para melhorar a velocidade de carregamento e a experiência do usuário.
+ 
+  - Criação e manutenção de bancos de dados para armazenar e recuperar informações.
+  - Desenvolvimento de APIs (Application Programming Interfaces) para permitir a comunicação entre o frontend e o backend.
+  - Implementação da lógica de negócios e regras de funcionamento do aplicativo ou site.
+  - Gerenciamento de autenticação e segurança, como criptografia de dados e proteção contra ataques.
+ 
+  - Configuração e administração de servidores e ambientes de hospedagem, como Azure ou servidores compartilhados.
+  - Implementação de escalabilidade para lidar com altos volumes de tráfego e demanda.
+  - Monitoramento e solução de problemas relacionados ao desempenho e disponibilidade do sistema.
+ 
+  - Desenvolvimento de bots para Telegram e Discord.
+  - Utilização de Python, JavaScript e PHP.
+  - Utilização de APIs e serviços externos.
+  - Automação de tarefas e interações em plataformas de chat.
 
 ## Projetos Destaques
 
@@ -32,16 +47,11 @@ O Bot de Divulgação Discord é uma ferramenta desenvolvida para facilitar a di
 
 ## Contato
 
+- Email: idarllansouza@outlook.com
 - Telegram: tudoestranho
 - Discord: tudoestranho
 
 ## Outras Habilidades
-
-- ReactNative
-  
-- ReactJS
-  
-- VueJS
   
 - HTML/CSS
   
